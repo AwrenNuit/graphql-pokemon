@@ -33,10 +33,10 @@ export default function App() {
       <h1>Pokémon</h1>
       <p>
         Pokémon have been around for as long as humans can remember. While new species
-        are being discovered each year, this is the original group of Pokémon. There 
-        were 150 in total back then. Of those 150 Pikachu was the most famous. Now the 
-        number of known species has grown into the 800s. As humans continue to explore 
-        the world, there's no telling how many more Pokémon will be discovered.
+        are being discovered each year, the original group of Pokémon remain legendary. 
+        There were 150 in total back then. Of those 150 Pikachu was the most famous. 
+        Now the number of known species has grown into the 800s. As humans continue to 
+        explore the world, there's no telling how many more Pokémon will be discovered.
       </p>
       <div className="container">
         <div className="card">
